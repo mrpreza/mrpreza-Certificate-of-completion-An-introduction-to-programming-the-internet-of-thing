@@ -7,10 +7,15 @@ Specialization Overview
 The specialization includes six courses:
 
 1.Introduction to the Internet of Things and Embedded Systems
+
 2.The Arduino Platform and C Programming
+
 3.Interfacing with the Arduino
+
 4.The Raspberry Pi Platform and Python Programming for the Raspberry Pi
+
 5.Interfacing with the Raspberry Pi
+
 6.Programming for the Internet of Things Project
 
 In the final Capstone Project, I applied the skills learned to design, build, and test a microcontroller-based embedded system, producing a unique final project suitable for showcasing to future employers.
